@@ -32,7 +32,5 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</div><br>
-<hr>
-
+</div><br><hr>
 <img align="center" alt="html5" src="https://media1.giphy.com/media/hENDkVRxKsctCpuAun/giphy.gif?cid=ecf05e475e3bd3d1jpom3h6gennic3c9bmspd9y3yppy75g6&rid=giphy.gif&ct=g" width="325px" /> <br> <br>
