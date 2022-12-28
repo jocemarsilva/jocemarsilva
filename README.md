@@ -14,7 +14,7 @@
 ### Estou muito feliz de ser aprovado no processo seletivo e fazer o curso de Programador Full Stack, através do Desenvolve 2023, programa gratuito de formação e inclusão em tecnologia do Grupo Boticário.💓
 <hr>
 
-# Minhas Redes Sociais 
+# Para me conhecer melhor: 
 <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jocemar-silva-b3a65825b/)
