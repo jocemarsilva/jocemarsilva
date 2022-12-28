@@ -1,12 +1,10 @@
 # 😃 Olá! Me chamo, Jocemar Silva.
 #### - 👨🏿‍💼 Sou Formado em Administração e Pós-Graduado em Gestão de Pessoas.  
 #### - 👨🏿‍🎓 Cursando Analise e Desenvolvimento de Sistemas-Unicesumar. 
-#### - 💻 Criador de conteúdos de programação e tecnologia.
-#### - 🧑🏿‍💻 Desenvolvedor Web, faço projetos atraentes que ganham vida.
+#### - 💻 Desenvolvedor Web e criador de conteúdos de programação e tecnologia.
 #### - ❤️ Amo poesia e comecei a ler, espumas flutuantes de Castro Alves. 
 #### - 🎮 Adoro jogos de tabuleiro, para me divertir com meu filho, o preferido é concept kids Animais.
-#### - 🚴🏿‍♂️ Gosto de pedalar com meus amigos. 
-#### - 🐱 Brincar com meu pet.😻 
+#### - 🚴🏿‍♂️ Gosto de pedalar com meus amigos e brincar com meu pet🐱. 
 <hr>
 
 ## Conquista😍
