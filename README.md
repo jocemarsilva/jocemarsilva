@@ -1,5 +1,5 @@
-# 😃 Olá! Me chamo, Jocemar Silva.
-#### - 👨🏿‍💼 Sou Formado em Administração e Pós-Graduado em Gestão de Pessoas.  
+## 😃 Olá! Sou o Jocemar Silva.
+#### - 👨🏿‍💼 Formado em Administração e Pós-Graduado em Gestão de Pessoas.  
 #### - 👨🏿‍🎓 Cursando Analise e Desenvolvimento de Sistemas-Unicesumar. 
 #### - 💻 Desenvolvedor Web e criador de conteúdos de programação e tecnologia.
 #### - ❤️ Amo poesia e comecei a ler, espumas flutuantes de Castro Alves. 
@@ -11,7 +11,7 @@
 ### Estou muito feliz de ser aprovado no processo seletivo e fazer o curso de Programador Full Stack, através do Desenvolve 2023, programa gratuito de formação e inclusão em tecnologia do Grupo Boticário.💓
 <hr>
 
-# Para me conhecer melhor: 
+## Para me conhecer melhor: 
 <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jocemar-silva-b3a65825b/)
@@ -21,7 +21,7 @@
 
 
 
-# Tecnologias que eu utilizo.
+## Tecnologias que eu utilizo.
 
 <div style="display: inline_block"> <br>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
