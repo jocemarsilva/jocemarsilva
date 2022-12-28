@@ -1,6 +1,5 @@
 # 😃 Olá! Me chamo, Jocemar Silva.
-#### - 👨🏿‍💼 Sou Formado em Administração.
-#### - 🤝🏿 Pós-Graduado em Gestão de Pessoas.  
+#### - 👨🏿‍💼 Sou Formado em Administração e Pós-Graduado em Gestão de Pessoas.  
 #### - 👨🏿‍🎓 Cursando Analise e Desenvolvimento de Sistemas-Unicesumar. 
 #### - 💻 Criador de conteúdos de programação e tecnologia.
 #### - 🧑🏿‍💻 Desenvolvedor Web, faço projetos atraentes que ganham vida.
@@ -8,6 +7,7 @@
 #### - 🎮 Adoro jogos de tabuleiro, para me divertir com meu filho, o preferido é concept kids Animais.
 #### - 🚴🏿‍♂️ Gosto de pedalar com meus amigos. 
 #### - 🐱 Brincar com meu pet.😻 
+<hr>
 
 ## Conquista😍
 ### Estou muito feliz de ser aprovado no processo seletivo e fazer o curso de Programador Full Stack, através do Desenvolve 2023, programa gratuito de formação e inclusão em tecnologia do Grupo Boticário.💓
