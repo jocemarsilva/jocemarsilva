@@ -7,8 +7,7 @@
 #### - ❤️ Amo poesia e comecei a ler, espumas flutuantes de Castro Alves. 
 #### - 🎮 Adoro jogos de tabuleiro, para me divertir com meu filho, o preferido é concept kids Animais.
 #### - 🚴🏿‍♂️ Gosto de pedalar com meus amigos. 
-#### - 🐱 Brincar com meu pet.😻 <br> 
-<hr>
+#### - 🐱 Brincar com meu pet.😻 
 
 ## Conquista😍
 ### Estou muito feliz de ser aprovado no processo seletivo e fazer o curso de Programador Full Stack, através do Desenvolve 2023, programa gratuito de formação e inclusão em tecnologia do Grupo Boticário.💓
