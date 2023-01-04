@@ -8,7 +8,7 @@
 <hr>
 
 ## Conquista😍
-### Estou muito feliz de ser aprovado no processo seletivo e fazer o curso de Programador Full Stack, através do Desenvolve 2023, programa gratuito de formação e inclusão em tecnologia do Grupo o Boticário.<hr>
+### Participei do processo seletivo e consegui uma bolsa de estudos para a trilha de desenvolvimento Full Stack através do programa Desenvolve o Boticário 2023 em parceria com a escola de tecnologia Alura..<hr>
 
 ## Para me conhecer melhor: 
 <br>
