@@ -1,10 +1,10 @@
 ## 😃 Olá! Sou o Jocemar Silva.
-#### - 👨🏿‍💼 Formado em Administração e Pós-Graduado em Gestão de Pessoas.  
-#### - 👨🏿‍🎓 Cursando Analise e Desenvolvimento de Sistemas-Unicesumar. 
-#### - 💻 Desenvolvedor Web e criador de conteúdos de programação e tecnologia.
-#### - ❤️ Amo poesia e comecei a ler, espumas flutuantes de Castro Alves. 
-#### - 🎮 Adoro jogos de tabuleiro, para me divertir com meu filho, o preferido é concept kids Animais.
-#### - 🚴🏿‍♂️ Gosto de pedalar com meus amigos e brincar com meu pet🐱.
+### - 👨🏿‍💼 Formado em Administração e Pós-Graduado em Gestão de Pessoas.  
+### - 👨🏿‍🎓 Cursando Analise e Desenvolvimento de Sistemas-Unicesumar. 
+### - 💻 Desenvolvedor Web e criador de conteúdos de programação e tecnologia.
+### - ❤️ Amo poesia e comecei a ler, espumas flutuantes de Castro Alves. 
+### - 🎮 Adoro jogos de tabuleiro, para me divertir com meu filho, o preferido é concept kids Animais.
+### - 🚴🏿‍♂️ Gosto de pedalar com meus amigos e brincar com meu pet🐱.
 <hr>
 
 ## Conquista😍
@@ -15,10 +15,10 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jocemar-silva-b3a65825b/)
 [![WebSite](https://img.shields.io/badge/website-red?style=for-the-badge&logo=About.m&logoColor=black)](https://jocemarsilva.com.br/)
-[![Blogue](https://img.shields.io/badge/Blogger-025525?style=for-the-badge&=blogger&logoColor=black)](https://jocemarsilva.com.br/blog/) <br><br>
+[![Blogue](https://img.shields.io/badge/Blogger-025525?style=for-the-badge&=blogger&logoColor=black)](https://jocemarsilva.com.br/blog/)
 <hr>
 
-<div style="display: inline_block"> <br>
+<div style="display: inline_block">
   
 ## Linguagens de Programação que utilizo.
 
