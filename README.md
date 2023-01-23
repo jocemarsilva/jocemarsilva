@@ -1,4 +1,4 @@
-## 😃 Olá! Sou o Jocemar Silva.
+## 😃 Olá, Bem-vindo ao meu perfil, é um prazer recebê-lo(a). 
 ### - 👨🏿‍💼 Formado em Administração e Pós-Graduado em Gestão de Pessoas.  
 ### - 👨🏿‍🎓 Cursando Analise e Desenvolvimento de Sistemas-Unicesumar. 
 ### - 💻 Desenvolvedor Front-End e criador de conteúdos de programação e tecnologia.
