@@ -1,7 +1,7 @@
 ## 😃 Olá, Bem-vindo ao meu perfil, é um prazer recebê-lo(a). 
 ### - 👨🏿‍💼 Formado em Administração e Pós-Graduado em Gestão de Pessoas.  
 ### - 👨🏿‍🎓 Cursando Analise e Desenvolvimento de Sistemas-Unicesumar. 
-### - 💻 Desenvolvedor Front-End e criador de conteúdos de programação e tecnologia.
+### - 💻 Desenvolvedor Full Stack e criador de conteúdos de programação e tecnologia.
 ### - ❤️ Amo poesia e comecei a ler, espumas flutuantes de Castro Alves. 
 ### - 🎮 Adoro jogos de tabuleiro, para me divertir com meu filho, o preferido é concept kids Animais.
 ### - 🚴🏿‍♂️ Gosto de pedalar com meus amigos e brincar com meu pet🐱.
