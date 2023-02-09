@@ -8,7 +8,7 @@
 
 
 ## Conquista😍
-### Participei do processo seletivo e consegui uma bolsa de estudos para a trilha de desenvolvimento Full Stack através do programa Desenvolve o Boticário 2023 em parceria com a escola de tecnologia Alura.
+### Participei do processo seletivo e conquistei uma bolsa de estudos para a trilha de desenvolvimento Full Stack através do programa Desenvolve o Boticário 2023 em parceria com a escola de tecnologia Alura.
 
 ## Para me conhecer melhor: 
 
