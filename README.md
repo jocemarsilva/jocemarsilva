@@ -6,7 +6,6 @@
 ### - 🎮 Adoro jogos de tabuleiro, para me divertir com meu filho, o preferido é concept kids Animais.
 ### - 🚴🏿‍♂️ Gosto de pedalar com meus amigos e brincar com meu pet🐱.
 
-
 ## Conquista😍
 ### Participei do processo seletivo e conquistei uma bolsa de estudos para a trilha de desenvolvimento Full Stack através do programa Desenvolve o Boticário 2023 em parceria com a escola de tecnologia Alura.
 
@@ -16,10 +15,8 @@
 [![WebSite](https://img.shields.io/badge/website-red?style=for-the-badge&logo=About.m&logoColor=black)](https://jocemarsilva.com.br/)
 [![Blogue](https://img.shields.io/badge/Blogger-025525?style=for-the-badge&=blogger&logoColor=black)](https://jocemarsilva.com.br/blog/)
 
-
 <div style="display: inline_block">
-  
- ## Linguagens de Programação que utilizo.
+   ## Linguagens de Programação que utilizo.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
