@@ -27,5 +27,4 @@
 
 ![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-</div> <br><hr>
-<img align="center" alt="html5" src="https://media1.giphy.com/media/hENDkVRxKsctCpuAun/giphy.gif?cid=ecf05e475e3bd3d1jpom3h6gennic3c9bmspd9y3yppy75g6&rid=giphy.gif&ct=g" width="325px" /> <br> <br>
+>
