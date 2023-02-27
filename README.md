@@ -3,8 +3,6 @@
 ### - 👨🏿‍🎓 Cursando Análise e Desenvolvimento de Sistemas-Unicesumar. 
 ### - 💻 Desenvolvedor Full Stack e criador de conteúdos de programação e tecnologia.
 ### - ❤️ Amo fazer trilha com minha familia e amigos, muita aventura e história em meio a natureza. 
-### - 🎮 Adoro jogos de tabuleiro, para me divertir com meu filho, o preferido é concept kids Animais.
-### - 🚴🏿‍♂️ Gosto de pedalar com meus amigos e brincar com meu pet🐱.
 
 ## Conquista😍
 ### Participei do processo seletivo e conquistei uma bolsa de estudos para a trilha de desenvolvimento Full Stack através do programa Desenvolve o Boticário 2023 em parceria com a escola de tecnologia Alura.
