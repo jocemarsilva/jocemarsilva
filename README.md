@@ -4,8 +4,8 @@
 ### - 💻 Desenvolvedor Full Stack e criador de conteúdos de programação e tecnologia.
 ### - ❤️ Amo fazer trilha com minha familia e amigos, muita aventura e história em meio a natureza. 
 
-## Conquista😍
-### Participei do processo seletivo e conquistei uma bolsa de estudos para a trilha de desenvolvimento Full Stack através do programa Desenvolve o Boticário 2023 em parceria com a escola de tecnologia Alura.
+## 🏆Conquista😍
+### 🏆Participei do processo seletivo e conquistei uma bolsa de estudos para a trilha de desenvolvimento Full Stack através do programa Desenvolve o Boticário 2023 em parceria com a escola de tecnologia Alura.🏆
 
 ## Para me conhecer melhor: 
 
